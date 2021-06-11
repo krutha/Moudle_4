@@ -1,8 +1,0 @@
--- Invoic
---prblm1
-select * from invoice;
-select count(billing_country) from invoice
-WHERE billing_state
-IN ('CA', 'TX', 'AZ');
---prblm2
-select avg (total) from invoice;
