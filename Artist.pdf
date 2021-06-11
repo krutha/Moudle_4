@@ -1,0 +1,11 @@
+--Artist prblms 
+select * from artist;
+ select * from artist order by name desc;
+--prblm2
+ select * from artist
+ where name like 'Black%';
+--prblm3
+ select * from artist
+ where name like '%Black%';
+ 
+ 

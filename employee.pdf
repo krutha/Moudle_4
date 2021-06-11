@@ -1,0 +1,9 @@
+--Employee Table
+--prblm1
+select * from employee
+SELECT max (birth_date)
+FROM employee
+--prblm2
+SELECT MIN(birth_date
+)
+FROM employee
